@@ -1,0 +1,73 @@
+<mjml>
+  <mj-head>
+    <mj-title>Permaculture Workshop</mj-title>
+
+    <mj-font
+      name="Montserrat"
+      href="https://fonts.googleapis.com/css?family=Montserrat:400,600,800"
+    />
+    <mj-attributes>
+      <mj-all padding="0px" font-family="Montserrat, Helvetica, sans-serif" />
+    </mj-attributes>
+    <mj-preview> INSERT PREVIEW TEXT HERE </mj-preview>
+  </mj-head>
+  <mj-body>
+    <mj-section
+      background-url="https://ioms-demo.s3.us-west-2.amazonaws.com/image.jpg"
+    >
+      <mj-column width="50%">
+        <mj-text align="center" color="#ffffff" padding="30px">
+          <h1>Permaculture Workshop</h1>
+          <p style="line-height: 0px; color: #c1c1c1">in the</p>
+          <h2 style="color: #ffffff">Cook Islands</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="70%">
+        <mj-text align="center">
+          <p style="font-size: 20px; padding-top: 40px">
+            Rarotonga's first ever permaculture classes have been running since
+            the beginning of March, at the Permaculture Center in Nikao, next to
+            Te Ipukarea Society.
+          </p>
+          <p style="font-size: 20px; padding-top: 40px">
+            Join us for a full day workshop at the Rainbow Villas in Nikao on
+            March 24th, 2022 from 11am-4pm.
+          </p>
+          <p style="font-size: 16px; padding-top: 40px">Free entry</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-button
+          font-family="Helvetica"
+          background-color="#2C9734"
+          color="white"
+          href="#"
+          inner-padding="15px"
+          padding-top="20px"
+        >
+          Sign up now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="50px">
+      <mj-column>
+        <mj-table>
+          <tr style="background-color: #e7e7e7; padding-top: 5px">
+            <td style="padding: 5 0 5 5px">
+              More information: Te Ipukarea Society
+            </td>
+            <td style="padding: 0 10 0 0px">+682 21 144</td>
+            <td style="padding-left: 30px">tiscookislands.org</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

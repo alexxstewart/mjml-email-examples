@@ -1,0 +1,156 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://ioms-demo.s3.us-west-2.amazonaws.com/ioms.png"
+          padding-bottom="0px"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-family="Helvetica" padding-bottom="0px">
+          <h4>
+            Aggregated all current offenders serving Probation, Parole, or
+            Community Service terms with the following conditions:
+          </h4>
+          <ul style="padding-right: 0px; line-height: 3px">
+            <li style="padding: 0px"><p>Curfew</p></li>
+            <li><p>Not to purchase or consume alcohol</p></li>
+            <li>
+              <p>Not to enter liquour license premises (Bars/Nightclubs)</p>
+            </li>
+            <li><p>To abstain from the consumption of any class C drugs</p></li>
+          </ul>
+        </mj-text>
+        <mj-text font-family="Helvetica" color="#9C9C9C"> </mj-text>
+        <mj-table>
+          <tr
+            style="
+              border-bottom: 1px solid #ecedee;
+              text-align: left;
+              padding: 15px 0;
+              background-color: #9c9c9c;
+              border-radius: 2px;
+            "
+          >
+            <th style="padding: 0 15px 0 0">Offender</th>
+            <th style="padding: 0 15px 0 0">DoB (Age)</th>
+            <th style="padding: 0 15px 0 0">Charges</th>
+            <th style="padding: 0 15px">Term</th>
+            <th style="padding: 0 0 0 15px">Conditions</th>
+          </tr>
+          <tr style="border-bottom: 1px solid #efefef">
+            <td style="padding: 0 0px 0 0">James May</td>
+            <td style="padding: 0 0px">19/04/1972 (54)</td>
+            <td style="padding: 0 0 0 0px">Assault, CR123-126/22</td>
+            <td style="padding: 0 0 0 0px">Probation</td>
+            <td style="padding: 0 0 0 0px">Curfew 7:30pm</td>
+          </tr>
+          <tr
+            style="border-bottom: 1px solid #ecedee; background-color: #efefef"
+          >
+            <td style="padding: 0 0px 0 0">Jim Simons</td>
+            <td style="padding: 0 0px">19/04/1999 (23)</td>
+            <td style="padding: 0 0 0 0px">Theft, CR123-126/22</td>
+            <td style="padding: 0 0 0 0px">Parole</td>
+            <td style="padding: 0 0 0 0px">Curfew 7:30pm</td>
+          </tr>
+          <tr style="border-bottom: 1px solid #ecedee">
+            <td style="padding: 0 0px 0 0">Brett Smith</td>
+            <td style="padding: 0 0px">30/12/1992 (30)</td>
+            <td style="padding: 0 0 0 0px">Assault, CR123-126/22</td>
+            <td style="padding: 0 0 0 0px">Community Service</td>
+            <td style="padding: 0 0 0 0px">Not to Enter</td>
+          </tr>
+          <tr
+            style="border-bottom: 1px solid #ecedee; background-color: #efefef"
+          >
+            <td style="padding: 0 0px 0 0">Jimmy Carter</td>
+            <td style="padding: 0 0px">19/04/1972 (54)</td>
+            <td style="padding: 0 0 0 0px">Assault, CR123-126/22</td>
+            <td style="padding: 0 0 0 0px">Probation</td>
+            <td style="padding: 0 0 0 0px">Not to consume</td>
+          </tr>
+          <tr style="border-bottom: 1px solid #ecedee">
+            <td style="padding: 0 0px 0 0">Test profile</td>
+            <td style="padding: 0 0px">19/04/1972 (54)</td>
+            <td style="padding: 0 0 0 0px">Assault, CR123-126/22</td>
+            <td style="padding: 0 0 0 0px">Probation</td>
+            <td style="padding: 0 0 0 0px">Not to purchase</td>
+          </tr>
+          <tr
+            style="border-bottom: 1px solid #ecedee; background-color: #efefef"
+          >
+            <td style="padding: 0 0px 0 0">Cam Mead</td>
+            <td style="padding: 0 0px">19/04/1972 (54)</td>
+            <td style="padding: 0 0 0 0px">Assault, CR123-126/22</td>
+            <td style="padding: 0 0 0 0px">Probation</td>
+            <td style="padding: 0 0 0 0px">Not to consume</td>
+          </tr>
+          <tr style="border-bottom: 1px solid #ecedee">
+            <td style="padding: 0 0px 0 0">Peter</td>
+            <td style="padding: 0 0px">19/04/1972 (54)</td>
+            <td style="padding: 0 0 0 0px">Assault, CR123-126/22</td>
+            <td style="padding: 0 0 0 0px">Probation</td>
+            <td style="padding: 0 0 0 0px">To abstain</td>
+          </tr>
+          <tr
+            style="border-bottom: 1px solid #ecedee; background-color: #efefef"
+          >
+            <td style="padding: 0 0px 0 0">John White</td>
+            <td style="padding: 0 0px">19/04/1972 (54)</td>
+            <td style="padding: 0 0 0 0px">Assault, CR123-126/22</td>
+            <td style="padding: 0 0 0 0px">Parole</td>
+            <td style="padding: 0 0 0 0px">Not to Enter</td>
+          </tr>
+          <tr style="border-bottom: 1px solid #ecedee">
+            <td style="padding: 0 0px 0 0">Sam Smith</td>
+            <td style="padding: 0 0px">19/04/1972 (54)</td>
+            <td style="padding: 0 0 0 0px">Assault, CR123-126/22</td>
+            <td style="padding: 0 0 0 0px">Probation</td>
+            <td style="padding: 0 0 0 0px">Not to purchase</td>
+          </tr>
+          <tr
+            style="border-bottom: 1px solid #ecedee; background-color: #efefef"
+          >
+            <td style="padding: 0 0px 0 0">Brad Tyson</td>
+            <td style="padding: 0 0px">19/04/1972 (54)</td>
+            <td style="padding: 0 0 0 0px">Burglary, CR123-126/22</td>
+            <td style="padding: 0 0 0 0px">Probation</td>
+            <td style="padding: 0 0 0 0px">Not to consume</td>
+          </tr>
+          <tr style="border-bottom: 1px solid #ecedee">
+            <td style="padding: 0 0px 0 0">Test profile 2</td>
+            <td style="padding: 0 0px">19/04/1972 (54)</td>
+            <td style="padding: 0 0 0 0px">Assault, CR123-126/22</td>
+            <td style="padding: 0 0 0 0px">Probation</td>
+            <td style="padding: 0 0 0 0px">Not to Enter</td>
+          </tr>
+          <tr
+            style="border-bottom: 1px solid #ecedee; background-color: #efefef"
+          >
+            <td style="padding: 0 0px 0 0">Thomas Xi</td>
+            <td style="padding: 0 0px">19/04/1972 (54)</td>
+            <td style="padding: 0 0 0 0px">Assault, CR123-126/22</td>
+            <td style="padding: 0 0 0 0px">Probation</td>
+            <td style="padding: 0 0 0 0px">Not to consume</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button
+          font-family="Helvetica"
+          background-color="#2C9734"
+          color="white"
+          href="#"
+        >
+          See all on IOMS
+        </mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
